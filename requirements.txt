@@ -1,20 +1,27 @@
-# Core
-numpy
-pandas
+## REQUIREMENTS
 
-# Visualization
+# Core Data Processing and Analysis
+pandas
+numpy
+
+# Statistical Modeling and Regression
+statsmodels
+scikit-learn
+
+# Data Visualization
 matplotlib
 seaborn
-
-
-# Machine Learning
-scikit-learn
-statsmodels
-
 
 # Jupyter & Development
 jupyter
 notebook
 ipython
+
+# Formula Handling
+patsy
+
+# Statistical Tests
+scipy
+
 
 
